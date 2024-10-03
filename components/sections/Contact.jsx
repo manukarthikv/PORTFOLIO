@@ -1,5 +1,4 @@
-import {EmailIcon} from "@chakra-ui/icons";
-import {Button, Flex, Link, Text} from "@chakra-ui/react";
+import {Flex, Text} from "@chakra-ui/react";
 import {Grid} from "@material-ui/core";
 import React from "react";
 
@@ -30,15 +29,9 @@ export default function Contact() {
                 <Text fontSize="xl" m="auto">
                     or feedback on my portfolio, my inbox is open!
                 </Text>
-                <Button
-                    as={Link}
-                    leftIcon={<EmailIcon />}
-                    href="mailto:manukarthikv1@gmail.com"
-                    m="auto"
-                    mt={6}
-                >
-                    Send Email
-                </Button>
+                <Text fontSize="xl" m="auto" mt={6}>
+                    Contact me at: 9845655499
+                </Text>
             </Flex>
         </SectionContainer>
     );
