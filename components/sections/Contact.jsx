@@ -26,11 +26,8 @@ export default function Contact() {
                 <Text fontSize="xl" m="auto" mt={6}>
                     Whether it&apos;s a job opportunity, an invite to coffee,
                 </Text>
-                <Text fontSize="xl" m="auto">
-                    or feedback on my portfolio, my inbox is open!
-                </Text>
                 <Text fontSize="xl" m="auto" mt={6}>
-                    Contact me at: 9845655499
+                    WhatsApp/Call: 9845655499
                 </Text>
             </Flex>
         </SectionContainer>
