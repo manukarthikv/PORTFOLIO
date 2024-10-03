@@ -1,7 +1,7 @@
 const jobs = [
     {
         workplace: "Technofly",
-        position: "Machine Learning Intern",
+        position: "Data Science Intern",
         duration: ["Sept 2023 - Oct 2023"],
         description: [
             "Researched image processing algorithms and developed a speech recognition project using Python.",
